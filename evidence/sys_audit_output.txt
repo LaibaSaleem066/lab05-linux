@@ -1,0 +1,20 @@
+==========================================
+          SYSTEM AUDIT REPORT             
+==========================================
+Date & Time : Fri Oct 16 04:50:00 AM UTC 2026
+Hostname    : ubuntu
+User        : laibasaleem066
+Uptime      : up 30 minutes
+------------------------------------------
+CPU Architecture:
+Architecture:                            x86_64
+------------------------------------------
+Memory Usage:
+               total        used        free      shared  buff/cache   available
+Mem:           1.6Gi       654Mi       138Mi        18Mi       978Mi       940Mi
+Swap:          1.6Gi       1.7Mi       1.6Gi
+------------------------------------------
+Disk Usage:
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mapper/ubuntu--vg-ubuntu--lv  9.8G  6.7G  2.6G  73% /
+==========================================
